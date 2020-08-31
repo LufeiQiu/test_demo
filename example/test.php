@@ -4,4 +4,4 @@ use admin\Test;
 
 $msg = Test::greet();
 
-echo 'This is git test!';
+echo 'This is git test!！！！';
