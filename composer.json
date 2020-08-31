@@ -1,0 +1,15 @@
+{
+    "name": "admin/test",
+    "description": "This is a test!",
+    "type": "library",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "admin\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.2"
+    }
+}
